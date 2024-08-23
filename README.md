@@ -1,5 +1,5 @@
 ## Boas vindas ao meu perfil 💙💙
-Meu nome é Kalel Prado
+Meu nome é **Kalel Prado**
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
